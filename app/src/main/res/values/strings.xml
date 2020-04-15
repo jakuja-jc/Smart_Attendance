@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Smart Attendance PC</string>
+    <string name="ok_lable">OK</string>
+    <string name="dismiss_lable">Dismiss</string>
+    <string name="clear_all_lable">Clear All</string>
+    <string name="dialog_title_symptom">Choose The Symptom below</string>
+    <string name="dialog_title_visit">Choose the place You have visit below</string>
+    <string-array name="pilihan_batuk">
+
+        <item>Flu</item>
+        <item>Cough</item>
+        <item>Sore Throat</item>
+        <item>Fever</item>
+        <item>None</item>
+
+    </string-array>
+
+    <string-array name="pilihan_batuk2">
+
+        <item>Flu</item>
+        <item>Cough</item>
+        <item>Sore Throat</item>
+        <item>Fever</item>
+        <item>None</item>
+
+    </string-array>
+
+    <string-array name="pilihan_visit">
+
+        <item>Kantor (KP)</item>
+        <item>Rumah</item>
+        <item>Serang</item>
+        <item>Cilegon</item>
+        <item>None</item>
+
+    </string-array>
+
+    <string-array name="pilihan_visit2">
+
+        <item>Kantor (KP)</item>
+        <item>Rumah</item>
+        <item>Serang</item>
+        <item>Cilegon</item>
+        <item>None</item>
+
+    </string-array>
+
+</resources>
